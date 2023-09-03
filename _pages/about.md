@@ -15,8 +15,11 @@ I received my Bachelor's degree in Applied Math from University of California, B
 I was raised as a traditional Vietnamese, thus I am in love with everything comes from Asia, including: culture, destinations, people, food, and art. In my freetime, I enjoy cooking, doing my DIY projects, practicing Chinese ink-painting, swing dancing, and trekking. 
 
 ## Recent Updates
+* [August, 2023] Our lab moved to University of Virginia! 
 * [July, 2023] I passed SU's Qualifying Exam 2. 
 * [March, 2023] Our paper **Backpropagation of Unrolled Solvers with Folded Optimization** was accepted at IJCAI.
+* [January, 2023] I will TA for CIS 351, Data Structures. 
+* [August, 2022] I will TA for CIS467, Introduction to Artificial Intelligence. 
 * [January, 2023] A new preprint titled **Context-Aware Differential Privacy for Language Modeling**. Check out the paper [here](https://arxiv.org/abs/2301.12288).
 * [March, 2022] Our collaboration work **Learning Solutions for Intertemporal
 Power Systems Optimization with Recurrent Neural Network** with Professor Kyri Baker from University of Colorado, Boulder is accepted to PMAPS 2022.
