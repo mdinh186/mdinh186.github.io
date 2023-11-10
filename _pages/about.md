@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in Computer Science. My research is supervised by Prof. [Ferdinando Fioretto](https://nandofioretto.github.io/) at University of Virginia. My research focuses on the integration of constrained optimization and machine learning, especially in 'predict-then-optimize' aspect. 
 
-I received my Bachelor's degree in Applied Math from University of California, Berkeley in 2015. After graduating, I was very fortunate to join Trusting Social's team, a fintech company based in Vietnam, as a Data Scientist, working on e-KYC service and AI-based credit score. Specifically, I spent two years developing facial and image recognition products, and one year working on data mining and machine learning solutions using big social networking data. 
+I am a second-year Ph.D. student in the Computer Science Department at the University of Virginia, advised by Professor [Ferdinando Fioretto](https://nandofioretto.github.io/). MMy research interest is the integration of constrained optimization and machine learning, with a focus on differentiable optimization.
 
-I was raised as a traditional Vietnamese, thus I am in love with everything comes from Asia, including: culture, destinations, people, food, and art. In my freetime, I enjoy cooking, doing my DIY projects, practicing Chinese ink-painting, swing dancing, and trekking. 
+I received my Bachelor's in Applied Math from the University of California, Berkeley in 2015. After graduating, I was fortunate to join Trusting Social's team as a Data Scientist, working on e-KYC services and AI-based credit scores. My team built data mining and machine learning solutions using big social networking data, as well as facial and image recognition products for major banks and businesses in Vietnam.
+
+I was raised in a traditional Vietnamese household, which has fostered my love for everything related to Asia, including its culture, destinations, people, food, and art. In my free time, I enjoy cooking, working on DIY projects, practicing Chinese ink painting, swing dancing, and trekking.
+
 
 ## Recent Updates
 * [Sep, 2021] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
