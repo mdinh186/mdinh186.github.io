@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D student in Department of Electrical Engineering & Computer Science, University of Virginia. My research focuses on the integration of constrained optimization and machine learning, especially in 'predict-then-optimize' aspect. My research advisor is Prof. [Ferdinando Fioretto](https://nandofioretto.github.io/).
+I am a second year Ph.D student in Computer Science. My research is supervised by Prof. [Ferdinando Fioretto](https://nandofioretto.github.io/) at University of Virginia. My research focuses on the integration of constrained optimization and machine learning, especially in 'predict-then-optimize' aspect. 
 
 I received my Bachelor's degree in Applied Math from University of California, Berkeley in 2015. After graduating, I was very fortunate to join Trusting Social's team, a fintech company based in Vietnam, as a Data Scientist, working on e-KYC service and AI-based credit score. Specifically, I spent two years developing facial and image recognition products, and one year working on data mining and machine learning solutions using big social networking data. 
 
 I was raised as a traditional Vietnamese, thus I am in love with everything comes from Asia, including: culture, destinations, people, food, and art. In my freetime, I enjoy cooking, doing my DIY projects, practicing Chinese ink-painting, swing dancing, and trekking. 
 
 ## Recent Updates
+* [Sep, 2021] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
 * [August, 2023] Our lab moved to University of Virginia! 
 * [July, 2023] I passed SU's Qualifying Exam 2. 
 * [March, 2023] Our paper **Backpropagation of Unrolled Solvers with Folded Optimization** was accepted at IJCAI.
@@ -26,7 +27,6 @@ Power Systems Optimization with Recurrent Neural Network** with Professor Kyri B
 * [Feb, 2022] A new preprint titled **A Fairness Analysis on Private Aggregation of Teacher Ensembles**. Check out the paper [here](https://arxiv.org/pdf/2109.08630.pdf).
 * [Jan, 2022] I passed SU's Qualifying Exam 1. 
 * [Sep, 2021] Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens** is accepted to Neurips 2021.
-* [Sep, 2021] Paper titled **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted to ISGT. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
 
 ## Contact Information 
 
