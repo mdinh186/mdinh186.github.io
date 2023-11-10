@@ -17,7 +17,7 @@ I was raised in a traditional Vietnamese household, which has fostered my love f
 
 
 ## Recent Updates
-* [Sep, 2021] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
+* [Sep, 2023] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
 * [August, 2023] Our lab moved to University of Virginia! 
 * [July, 2023] I passed SU's Qualifying Exam 2. 
 * [March, 2023] Our paper **Backpropagation of Unrolled Solvers with Folded Optimization** was accepted at IJCAI.
