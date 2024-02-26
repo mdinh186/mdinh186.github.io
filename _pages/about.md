@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a second-year Ph.D. student in the Computer Science Department at the University of Virginia, advised by Professor [Ferdinando Fioretto](https://nandofioretto.github.io/). My research interest is the integration of constrained optimization and machine learning, with a focus on differentiable optimization.
+I am a rising fourth-year Ph.D. student in the Computer Science Department at the University of Virginia, advised by Professor [Ferdinando Fioretto](https://nandofioretto.github.io/). My research interest is the integration of constrained optimization and machine learning, with a focus on differentiable optimization.
 
 I received my Bachelor's in Applied Math from the University of California, Berkeley in 2015. After graduating, I was fortunate to join Trusting Social's team as a Data Scientist, working on e-KYC services and AI-based credit scores. My team built data mining and machine learning solutions using big social networking data, as well as facial and image recognition products for major banks and businesses in Vietnam.
 
@@ -17,7 +17,9 @@ I was raised in a traditional Vietnamese household, which has fostered my love f
 
 
 ## Recent Updates
-* [Sep, 2023] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
+* [February, 2024] A new preprint titled **End-to-End Learning for Fair Multiobjective Optimization Under Uncertainty**. Check out the paper [here](https://arxiv.org/abs/2402.07772).
+* [January, 2024] A new preprint titled **Learning Fair Ranking Policies via Differentiable Optimization of Ordered Weighted Averages**. Check out the paper [here](https://arxiv.org/abs/2402.05252).
+* [September, 2023] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
 * [August, 2023] Our lab moved to University of Virginia! 
 * [July, 2023] I passed SU's Qualifying Exam 2. 
 * [March, 2023] Our paper **Backpropagation of Unrolled Solvers with Folded Optimization** was accepted at IJCAI.
@@ -26,9 +28,9 @@ I was raised in a traditional Vietnamese household, which has fostered my love f
 * [January, 2023] A new preprint titled **Context-Aware Differential Privacy for Language Modeling**. Check out the paper [here](https://arxiv.org/abs/2301.12288).
 * [March, 2022] Our collaboration work **Learning Solutions for Intertemporal
 Power Systems Optimization with Recurrent Neural Network** with Professor Kyri Baker from University of Colorado, Boulder is accepted to PMAPS 2022.
-* [Feb, 2022] A new preprint titled **A Fairness Analysis on Private Aggregation of Teacher Ensembles**. Check out the paper [here](https://arxiv.org/pdf/2109.08630.pdf).
-* [Jan, 2022] I passed SU's Qualifying Exam 1. 
-* [Sep, 2021] Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens** is accepted to Neurips 2021.
+* [February, 2022] A new preprint titled **A Fairness Analysis on Private Aggregation of Teacher Ensembles**. Check out the paper [here](https://arxiv.org/pdf/2109.08630.pdf).
+* [January, 2022] I passed SU's Qualifying Exam 1. 
+* [September, 2021] Paper titled **Differentially Private Empirical Risk Minimization under the Fairness Lens** is accepted to Neurips 2021.
 
 ## Contact Information 
 
