@@ -17,8 +17,9 @@ I was raised in a traditional Vietnamese household, which has fostered my love f
 
 
 ## Recent Updates
-* [February, 2024] A new preprint titled **End-to-End Learning for Fair Multiobjective Optimization Under Uncertainty**. Check out the paper [here](https://arxiv.org/abs/2402.07772).
-* [January, 2024] A new preprint titled **Learning Fair Ranking Policies via Differentiable Optimization of Ordered Weighted Averages**. Check out the paper [here](https://arxiv.org/abs/2402.05252).
+* [April, 2024] I received a Travel Award from ACM FaccT 2024 Committee. 
+* [April, 2024] Our paper  **End-to-End Learning for Fair Multiobjective Optimization Under Uncertainty** got accepted to UAI 2024(https://www.auai.org/uai2024/)!. Check out the paper [here](https://arxiv.org/abs/2402.07772) 
+* [March, 2024] Our paper **Learning Fair Ranking Policies via Differentiable Optimization of Ordered Weighted Averages** got accepted to ACM FaccT 2024! Check out the paper [here](https://arxiv.org/abs/2402.05252).
 * [December, 2024] A new preprint titled **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**. Check out the paper [here](https://arxiv.org/abs/2312.17394).
 * [September, 2023] Our paper **An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies** was accepted in IEEE PES Innovative Smart Grid Technologies. Check out the paper [here](https://arxiv.org/pdf/2111.11168.pdf).
 * [August, 2023] Our lab moved to University of Virginia! 

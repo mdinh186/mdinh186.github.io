@@ -6,8 +6,8 @@ author_profile: false
 ---
 
 (*) denotes equal
-1. **My H. Dinh**, James Kotary, Ferdinando Fioretto. [End-to-End Learning for Fair Multiobjective Optimization Under Uncertainty](https://arxiv.org/abs/2402.07772), CoRR abs/2402.07772, 2024.
-2. **My H. Dinh**, James Kotary, Ferdinando Fioretto. [Learning Fair Ranking Policies via Differentiable Optimization of Ordered Weighted Averages](https://arxiv.org/abs/2402.05252), CoRR abs/2402.05252, 2024.
+1. **My H. Dinh**, James Kotary, Ferdinando Fioretto. [End-to-End Learning for Fair Multiobjective Optimization Under Uncertainty](https://arxiv.org/abs/2402.07772), UAI, 2024.
+2. **My H. Dinh**, James Kotary, Ferdinando Fioretto. [Learning Fair Ranking Policies via Differentiable Optimization of Ordered Weighted Averages](https://arxiv.org/abs/2402.05252), In ACM FaccT, 2024.
 3. James Kotary, Jacob Christopher, **My H. Dinh**, and Ferdinando Fioretto. [Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization](https://arxiv.org/abs/2312.17394), CoRR abs/2301.12047, 2023.
 4. **My H. Dinh**, Ferdinando Fioretto, Mostafa Mohammadian, Kyri Baker. [An Analysis of the Reliability of AC Optimal Power Flow Deep Learning Proxies](https://ieeexplore.ieee.org/abstract/document/10328223), In IEEE PES Innovative Smart Grid Technologies 2023.
 5. James Kotary, **My H. Dinh**, Ferdinando Fioretto. [Backpropagation of Unrolled Solvers with Folded Optimization](https://arxiv.org/abs/2301.12047), In International Joint Conference on Artificial Intelligence (IJCAI) 2023.
