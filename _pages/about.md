@@ -17,7 +17,8 @@ I was raised in a traditional Vietnamese household, which has fostered my love f
 
 
 ## Recent Updates
-* [April, 2024] I received a Travel Award from ACM FaccT 2024 Committee. 
+* [June, 2024] Our paper **Differentiable Approximations of Fair OWA Optimization** will be presented at ICML 2024 Workshop on Differentiable Almost Everything! Workshop paper is available [here](https://differentiable.xyz/papers-2024/paper_48.pdf)
+* [April, 2024] I received a Travel Award from ACM FaccT 2024. Thanks FaccT commitee! 
 * [April, 2024] Our paper  **End-to-End Learning for Fair Multiobjective Optimization Under Uncertainty** got accepted to UAI 2024! Check out the paper [here](https://arxiv.org/abs/2402.07772) 
 * [March, 2024] Our paper **Learning Fair Ranking Policies via Differentiable Optimization of Ordered Weighted Averages** got accepted to ACM FaccT 2024! Check out the paper [here](https://arxiv.org/abs/2402.05252).
 * [December, 2024] A new preprint titled **Analyzing and Enhancing the Backward-Pass Convergence of Unrolled Optimization**. Check out the paper [here](https://arxiv.org/abs/2312.17394).
