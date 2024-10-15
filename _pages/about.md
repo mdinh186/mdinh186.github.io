@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a rising fourth-year Ph.D. student in the Computer Science Department at the University of Virginia, advised by Professor [Ferdinando Fioretto](https://nandofioretto.github.io/). My research interest is the integration of constrained optimization and machine learning, with a focus on differentiable optimization.
+I am a fourth-year Ph.D. student in the Computer Science Department at the University of Virginia, advised by Professor [Ferdinando Fioretto](https://nandofioretto.github.io/). My research interest is the integration of constrained optimization and machine learning, with a focus on differentiable optimization.
 
-I received my Bachelor's in Applied Math from the University of California, Berkeley in 2015. After graduating, I was fortunate to join Trusting Social's team as a Data Scientist, working on e-KYC services and AI-based credit scores. My team built data mining and machine learning solutions using big social networking data, as well as facial and image recognition products for major banks and businesses in Vietnam.
+I received my Bachelor's in Applied Math from the University of California, Berkeley in 2017. After graduating, I was fortunate to join Trusting Social's team as a Data Scientist, working on e-KYC services and AI-based credit scores. My team built data mining and machine learning solutions using big social networking data, as well as facial and image recognition products for major banks and businesses in Vietnam.
 
 I was raised in a traditional Vietnamese household, which has fostered my love for everything related to Asia, including its culture, destinations, people, food, and art. In my free time, I enjoy cooking, working on DIY projects, practicing Chinese ink painting, swing dancing, and trekking.
 
