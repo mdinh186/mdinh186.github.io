@@ -25,7 +25,7 @@ author_profile: true
 
 --- -->
 
-## 🔗 Random tutorial link about topics that related/unrelated to my research
+## 💡🔗 Random tutorial link about topics that related/unrelated to my research
 
 - 🔥 **All about diffusion models**  ([Link](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html#mjx-eqn%3Aeq%3A132))
 - 🔥 **Everything about Submodular functions**  ([Link1](https://arxiv.org/pdf/1111.6453), [Link2](https://people.csail.mit.edu/stefje/fall15/))
@@ -44,14 +44,14 @@ author_profile: true
 - 🔹 **Gurobi** – A few simple applications
  ([Link](https://www.gurobi.com/resources/functional-code-examples/))
 - 🔹 **Ortools** – A few simple applications ([Link](https://github.com/google/or-tools/tree/stable/examples/notebook/examples)
-- 🔹 **Pytorch** – A beginner tutorial (Link](https://developers.google.com/optimization/examples)))
+- 🔹 **Pytorch** – A beginner tutorial [Link](https://developers.google.com/optimization/examples)))
+
 --- 
 
 
 
-## Misc (Nontechnical)
-- **[Efficiency is the Enemy](https://fs.blog/slack/)**
-
+## 🧩 Misc (Nontechnical)
+- **Efficiency is the Enemy**: [Link]((https://fs.blog/slack/))
 - 📑 **Stress in Research/Professional Career**  ([Link](https://www.theexclusive.org/tag/stress%20in%20research/)
 ---
 <!-- ### 🎓 Machine Learning & Optimization -->
