@@ -28,13 +28,13 @@ author_profile: true
 ## 💡🔗 Random tutorial link about topics that related/unrelated to my research
 
 - 🔥 **All about diffusion models**  [Link](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html#mjx-eqn%3Aeq%3A132)
-- 🔥 **Everything about Submodular functions**  [Link1](https://arxiv.org/pdf/1111.6453), [Link2](https://people.csail.mit.edu/stefje/fall15/)
-- 📑 **GPT2 Tutorial**  [Link](https://jalammar.github.io/illustrated-gpt2/)
-- 📑 **Great explanation of Transformer**  [Link](https://jalammar.github.io/illustrated-transformer/)
-- 📑 **Text Generation with Pytorch**  [Link1](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter9/Chapter9.5.ipynb), [Link2](https://huggingface.co/blog/how-to-train)
-- 📑 **Intro to Federated Learning**  [Link](https://github.com/ayushm-agrawal/Federated-Learning-Implementations/blob/master/README.md)
-- 📑 **Differential Privacy Reading list**  [Link](https://desfontain.es/blog/differential-privacy-reading-list.html)
--  📑 **Introduction to Analysis of Algorithms** [Link](https://www.cs.cornell.edu/courses/cs6820/2019fa/lectures.html)
+- 🔥 **Everything about submodular functions**  [Link1](https://arxiv.org/pdf/1111.6453), [Link2](https://people.csail.mit.edu/stefje/fall15/)
+- 📑 **GPT2 tutorial**  [Link](https://jalammar.github.io/illustrated-gpt2/)
+- 📑 **Great explanation of transformer**  [Link](https://jalammar.github.io/illustrated-transformer/)
+- 📑 **Text generation with Pytorch**  [Link1](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter9/Chapter9.5.ipynb), [Link2](https://huggingface.co/blog/how-to-train)
+- 📑 **Intro to federated learning**  [Link](https://github.com/ayushm-agrawal/Federated-Learning-Implementations/blob/master/README.md)
+- 📑 **Differential privacy reading list**  [Link](https://desfontain.es/blog/differential-privacy-reading-list.html)
+-  📑 **Introduction to analysis of algorithms** [Link](https://www.cs.cornell.edu/courses/cs6820/2019fa/lectures.html)
 
 ---
 
