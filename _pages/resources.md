@@ -27,13 +27,13 @@ author_profile: true
 
 ## 💡🔗 Random tutorial link about topics that related/unrelated to my research
 
-- 🔥 **All about diffusion models**  ([Link](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html#mjx-eqn%3Aeq%3A132))
-- 🔥 **Everything about Submodular functions**  ([Link1](https://arxiv.org/pdf/1111.6453), [Link2](https://people.csail.mit.edu/stefje/fall15/))
-- 📑 **GPT2 Tutorial**  ([Link](https://jalammar.github.io/illustrated-gpt2/)
-- 📑 **Great explanation of Transformer**  ([Link](https://jalammar.github.io/illustrated-transformer/)
-- 📑 **Text Generation with Pytorch r**  ([Link1](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter9/Chapter9.5.ipynb)  [Link2](https://huggingface.co/blog/how-to-train)
-- 📑 **Intro to Federated Learning**  ([Link](https://github.com/ayushm-agrawal/Federated-Learning-Implementations/blob/master/README.md)
-- 📑 **Differential Privacy Reading list**  ([Link](https://desfontain.es/blog/differential-privacy-reading-list.html)
+- 🔥 **All about diffusion models**  [Link](https://calvinyluo.com/2022/08/26/diffusion-tutorial.html#mjx-eqn%3Aeq%3A132)
+- 🔥 **Everything about Submodular functions**  [Link1](https://arxiv.org/pdf/1111.6453), [Link2](https://people.csail.mit.edu/stefje/fall15/)
+- 📑 **GPT2 Tutorial**  [Link](https://jalammar.github.io/illustrated-gpt2/)
+- 📑 **Great explanation of Transformer**  [Link](https://jalammar.github.io/illustrated-transformer/)
+- 📑 **Text Generation with Pytorch r**  [Link1](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter9/Chapter9.5.ipynb)  [Link2](https://huggingface.co/blog/how-to-train)
+- 📑 **Intro to Federated Learning**  [Link](https://github.com/ayushm-agrawal/Federated-Learning-Implementations/blob/master/README.md)
+- 📑 **Differential Privacy Reading list**  [Link](https://desfontain.es/blog/differential-privacy-reading-list.html)
 -  📑 **Introduction to Analysis of Algorithms** [Link](https://www.cs.cornell.edu/courses/cs6820/2019fa/lectures.html)
 
 ---
@@ -51,8 +51,8 @@ author_profile: true
 
 
 ## 🧩 Misc (Nontechnical)
-- **Efficiency is the Enemy**: [Link]((https://fs.blog/slack/))
-- 📑 **Stress in Research/Professional Career**  ([Link](https://www.theexclusive.org/tag/stress%20in%20research/)
+- **Efficiency is the Enemy**: [Link](https://fs.blog/slack/)
+- **Stress in Research/Professional Career**([Link](https://www.theexclusive.org/tag/stress%20in%20research/)
 ---
 <!-- ### 🎓 Machine Learning & Optimization -->
 
