@@ -31,7 +31,7 @@ author_profile: true
 - 🔥 **Everything about Submodular functions**  [Link1](https://arxiv.org/pdf/1111.6453), [Link2](https://people.csail.mit.edu/stefje/fall15/)
 - 📑 **GPT2 Tutorial**  [Link](https://jalammar.github.io/illustrated-gpt2/)
 - 📑 **Great explanation of Transformer**  [Link](https://jalammar.github.io/illustrated-transformer/)
-- 📑 **Text Generation with Pytorch r**  [Link1](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter9/Chapter9.5.ipynb)  [Link2](https://huggingface.co/blog/how-to-train)
+- 📑 **Text Generation with Pytorch**  [Link1](https://github.com/falloutdurham/beginners-pytorch-deep-learning/blob/master/chapter9/Chapter9.5.ipynb), [Link2](https://huggingface.co/blog/how-to-train)
 - 📑 **Intro to Federated Learning**  [Link](https://github.com/ayushm-agrawal/Federated-Learning-Implementations/blob/master/README.md)
 - 📑 **Differential Privacy Reading list**  [Link](https://desfontain.es/blog/differential-privacy-reading-list.html)
 -  📑 **Introduction to Analysis of Algorithms** [Link](https://www.cs.cornell.edu/courses/cs6820/2019fa/lectures.html)
@@ -40,19 +40,20 @@ author_profile: true
 
 
 ## 🛠️ Useful Tools & Libraries
-- 🔹 **Matplotlib** cheatsheeet ([Link](https://github.com/matplotlib/cheatsheets))
+- 🔹 **Matplotlib** cheatsheeet [Link](https://github.com/matplotlib/cheatsheets)
 - 🔹 **Gurobi** – A few simple applications
- ([Link](https://www.gurobi.com/resources/functional-code-examples/))
-- 🔹 **Ortools** – A few simple applications ([Link](https://github.com/google/or-tools/tree/stable/examples/notebook/examples)
-- 🔹 **Pytorch** – A beginner tutorial [Link](https://developers.google.com/optimization/examples)))
+ [Link](https://www.gurobi.com/resources/functional-code-examples/)
+- 🔹 **Ortools** – A few simple applications [Link](https://github.com/google/or-tools/tree/stable/examples/notebook/examples)
+- 🔹 **Pytorch** – A beginner tutorial [Link](https://developers.google.com/optimization/examples)
 
 --- 
 
 
 
-## 🧩 Misc (Nontechnical)
-- **Efficiency is the Enemy**: [Link](https://fs.blog/slack/)
-- **Stress in Research/Professional Career**([Link](https://www.theexclusive.org/tag/stress%20in%20research/)
+## 🧩 Misc (Non-technical)
+- **Efficiency is the Enemy** [Link](https://fs.blog/slack/)
+- **Stress in Research/Professional Career** [Link](https://www.theexclusive.org/tag/stress%20in%20research/)
+
 ---
 <!-- ### 🎓 Machine Learning & Optimization -->
 
